@@ -36,7 +36,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About.html" />
     <Content Include="index.html" />
+    <Content Include="Projects.html" />
+    <Content Include="Skillsets.html" />
     <Content Include="Stylesheet1.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
